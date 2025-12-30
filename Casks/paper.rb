@@ -1,6 +1,6 @@
 cask "paper" do
-  version "0.0.2"
-  sha256 "f7f8b0edae5c88e5926ff4b5c5ffbf61a04c6afe289081e85690987fda8c3309"
+  version "0.0.3"
+  sha256 "1ac58f8e34b89ee6f54e53c0025fec005578c9a174a6539f175174b31eda8f47"
 
   url "https://github.com/plainwork/paper/releases/download/v#{version}/Paper-#{version}.zip"
   name "Paper"
